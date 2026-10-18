@@ -1,0 +1,16 @@
+## Pages
+- [AI Generalist No Code Developer - Smart Tools & Applications](/home): Transforming ideas into reality with cutting-edge AI tools and no-code platforms. Explore my portfolio of intelligent applications designed to solve real-world problems.
+- [AI-Powered Applications Hub - Innovation at Your Fingertips](/hub): Explore cutting-edge AI tools and no-code platforms designed to solve real-world problems. Transforming ideas into intelligent solutions.
+- [All Applications - Angshuman Biswas](/allapps): Explore all AI-powered applications and tools built by Angshuman Biswas
+- [All Applications - Angshuman Biswas](/apps-hub): Explore all applications built by Angshuman Biswas - AI Generalist No Code Developer
+- [Angshuman Biswas - AI Generalist No Code Developer](/): Portfolio and applications showcase by Angshuman Biswas - Building powerful AI-driven solutions with no-code tools
+- [Contact Details | ProCRM](/crm/contact/:id): View contact details
+- [Contacts | ProCRM](/crm/contacts): Manage your contacts and leads
+- [Dashboard - Fraud Detection System](/frauddetectiondashboard): Monitor and analyze fraudulent transactions in real-time
+- [Dashboard | ProCRM](/crmdashboard): CRM Dashboard - Manage your contacts and pipeline
+- [Fraud Alerts - Fraud Detection System](/fraudalertspanel): High-risk transaction alerts and monitoring
+- [Login - Application Hub](/login): Login to access all your business applications
+- [My Portfolio - Professional CV Management](/portfolio): Upload and download professional CV files. Manage your portfolio documents easily.
+- [Sales Pipeline | ProCRM](/crm/pipeline): Manage your sales pipeline and track deals
+- [Settings | ProCRM](/crm/settings): CRM settings and configuration
+- [Sign Up - Application Hub](/signup): Create an account to access all business applications
